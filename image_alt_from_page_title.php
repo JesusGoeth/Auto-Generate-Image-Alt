@@ -2,6 +2,7 @@
 /**
  * Automatically adds alt text to images based on the current page or post title.
  * Intended for use in a theme’s functions.php or included from a functions folder.
+ * works on child theme 
  */
 
 function image_alt_from_page_title($attr, $attachment) {
